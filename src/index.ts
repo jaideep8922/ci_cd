@@ -5,7 +5,7 @@ const port = 3000;
 
 // Use API router
 app.get('/details', (req:Request, res:Response)=>{
-    res.send("hello")
+    res.send("hello all")
 })
 
 
